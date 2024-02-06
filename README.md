@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Langchian, LlamaIndex**
 
-- 👨‍💻 My Resume is available at [My Resume]([rajsecrets.com/portfolio](https://github.com/rajsecrets/rajsecrets/blob/main/My_Resume_Aditya_Raj.pdf))
+- 👨‍💻 My Resume is available at [My Resume](https://github.com/rajsecrets/rajsecrets/blob/main/My_Resume_Aditya_Raj.pdf)
 
 - 📝 I regularly write articles on [rajsecrets.medium.com](rajsecrets.medium.com)
 
