@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">A passionate full stack Machine learning Engineer from India</h3>
 
-- 🔭 I’m currently working on [TvachaAI](https://github.com/rajsecrets/TvachaAI)
+- 🔭 I’m currently working on **Generative AI & Large Language Models**
 
-- 🌱 I’m currently learning **Pytorch and Large Language Models**
+- 🌱 I’m currently learning **Langchian, LlamaIndex**
 
-- 👨‍💻 All of my projects are available at [rajsecrets.com/portfolio](rajsecrets.com/portfolio)
+- 👨‍💻 My Resume is available at [My Resume]([rajsecrets.com/portfolio](https://github.com/rajsecrets/rajsecrets/blob/main/My_Resume_Aditya_Raj.pdf))
 
 - 📝 I regularly write articles on [rajsecrets.medium.com](rajsecrets.medium.com)
 
-- 💬 Ask me about **Any Query related to ML**
+- 💬 Ask me about **Any Query related to ML & Gen AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
