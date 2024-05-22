@@ -1,9 +1,9 @@
-<h1 align="Left">Hey! I am Shreyas Dixit</h1>
+<h1 align="Left">Hey! I am Aditya Raj</h1>
 <p align="left"><b>Building @Linear-AI | President @MLSC VIIT Pune | Student Researcher | Dual Patent Holder | Deep Learning</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srddev&label=Profile%20views&color=0e75b6&style=flat" alt="srddev" /> </p>
-<a href="https://twitter.com/shreyas__dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas__dixit" height="30" width="20" /></a>
-<a href="https://linkedin.com/in/i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i" height="30" width="20" /></a>
+<!-- <a href="https://twitter.com/shreyas__dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas__dixit" height="30" width="20" /></a> -->
+<a href="https://www.linkedin.com/in/rajsecrets/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i" height="30" width="20" /></a>
 
 <!-------------------------------------------------- About Me -------------------------------------------------->
 ## 🧑🏻About Me
