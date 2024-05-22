@@ -1,5 +1,5 @@
 <h1 align="Left">Hey! I am Aditya Raj</h1>
-<p align="left"><b>Building @Linear-AI | President @MLSC VIIT Pune | Student Researcher | Dual Patent Holder | Deep Learning</b></p>
+<p align="left"><b>Building AI Startup | Researcher | Content Creator </b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srddev&label=Profile%20views&color=0e75b6&style=flat" alt="srddev" /> </p>
 <!-- <a href="https://twitter.com/shreyas__dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas__dixit" height="30" width="20" /></a> -->
@@ -8,9 +8,9 @@
 <!-------------------------------------------------- About Me -------------------------------------------------->
 ## 🧑🏻About Me
 - 🔭 I am into Deep Learning Architectures and Techniques
-- 🤗 Publishing ML Models on [Huggingface](https://huggingface.co/SRDdev)
-- 👨‍💻 All of my projects are available at [shreyasdixit.me](shreyasdixit.me)
-- 🧋 Motto **Lead Learn Inspire**
+- 🤗 Publishing ML Models on [Huggingface](https://huggingface.co/rajsecrets0)
+- 👨‍💻 All of my projects are available at [Website](https://rajsecrets.odoo.com/)
+- 🧋 Motto : **Lead Learn Inspire**
 
 <!-------------------------------------------------- News -------------------------------------------------->
 ## <img src="https://em-content.zobj.net/thumbs/120/apple/325/newspaper_1f4f0.png" style="height:20px;width:20px;"> Latest Updates
