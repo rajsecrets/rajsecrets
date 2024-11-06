@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Resume is available at [My Resume](https://github.com/rajsecrets/rajsecrets/blob/main/My_Resume_Aditya_Raj.pdf)
 
-- 📝 I regularly write articles on [rajsecrets.medium.com](rajsecrets.medium.com)
+- 📝 I regularly write articles on rajsecrets.medium.com
 
 - 💬 Ask me about **Any Query related to ML & Gen AI**
 
